@@ -6,4 +6,7 @@
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=AcSg999&show_icons=true&theme=onedark" alt="GitHub Stats" style="height: 150px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcSg999&layout=compact&theme=onedark" alt="Top Languages" style="height: 150px;">
+  <img src="https://neofetch-profile.vercel.app/api?username=AcSg999" alt="Neofetch Stats" style="height: 342px;">
+  
 </div>
+

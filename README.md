@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-### let's make a brighter world for you and me
+- upload project alongside my individual upgrade path
+- let's make a brighter world for you and me
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=AcSg999&show_icons=true&theme=onedark" alt="GitHub Stats" style="height: 150px;">

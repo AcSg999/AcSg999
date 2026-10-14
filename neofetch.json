@@ -18,16 +18,16 @@
     },
     {
       "fields": [
-        { "key": "Hobbies.Software", "value": "AI/ML" },
-        { "key": "Hobbies.Algorithm", "value": "Linear Algebra, Reinforcement Learning" },
+        { "key": "Hobbies.Software", "value": "AI/ML, linux" },
+        { "key": "Hobbies.Algorithm", "value": "Linear Algebra, RL, Modern control" },
         { "key": "Hobbies.Hardware", "value": "Robotics hardware" }
       ]
     },
     {
       "title": "- Contact",
       "fields": [
-        { "key": "Email", "value": "bransonzcx@gmail.com" },
-        { "key": "Website", "value": "https://github.com/AcSg999" }
+        { "key": "Email", "value": "bransonzcx@gmail.com" }
+        { "key": "Website", "value": "haven't have one yet" }
       ]
     }
   ],

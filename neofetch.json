@@ -27,7 +27,7 @@
       "title": "- Contact",
       "fields": [
         { "key": "Email", "value": "{{bransonzcx@gmail.com}}" },
-        { "key": "Website", "value": "https://github.com/{{AcSg999}}" },
+        { "key": "Website", "value": "https://github.com/{{AcSg999}}" }
       ]
     }
   ],

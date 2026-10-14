@@ -1,6 +1,7 @@
 {
   "imageScale": 1,
   "coloredImage": true,
+  "removeBackground": true,
   "sections": [
     {
       "title": "AcSg@github",
